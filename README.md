@@ -291,6 +291,3 @@ After completing this task, I gained knowledge of:
 
 
 This task improved my understanding of cybersecurity fundamentals by evaluating my device security, strengthening password practices, researching common cyber threats, and reflecting on my personal online security habits. It also enhanced my ability to document cybersecurity activities and organize project files using GitHub.
-
-
-
